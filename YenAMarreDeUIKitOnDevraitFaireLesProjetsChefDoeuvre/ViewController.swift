@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        text.adjustsFontSizeToFitWidth = true
         refresh()
         
         img.image = UIImage(named: image.img)
