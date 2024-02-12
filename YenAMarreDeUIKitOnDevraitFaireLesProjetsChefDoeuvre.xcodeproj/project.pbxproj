@@ -13,6 +13,7 @@
 		F2BC1A132B7A1A92002A2D32 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2BC1A112B7A1A92002A2D32 /* Main.storyboard */; };
 		F2BC1A152B7A1A94002A2D32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2BC1A142B7A1A94002A2D32 /* Assets.xcassets */; };
 		F2BC1A182B7A1A94002A2D32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2BC1A162B7A1A94002A2D32 /* LaunchScreen.storyboard */; };
+		F2BC1A202B7A23AE002A2D32 /* Img.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BC1A1F2B7A23AE002A2D32 /* Img.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2BC1A142B7A1A94002A2D32 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2BC1A172B7A1A94002A2D32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2BC1A192B7A1A94002A2D32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2BC1A1F2B7A23AE002A2D32 /* Img.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Img.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F2BC1A0B2B7A1A92002A2D32 /* AppDelegate.swift */,
 				F2BC1A0D2B7A1A92002A2D32 /* SceneDelegate.swift */,
 				F2BC1A0F2B7A1A92002A2D32 /* ViewController.swift */,
+				F2BC1A1F2B7A23AE002A2D32 /* Img.swift */,
 				F2BC1A112B7A1A92002A2D32 /* Main.storyboard */,
 				F2BC1A142B7A1A94002A2D32 /* Assets.xcassets */,
 				F2BC1A162B7A1A94002A2D32 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				F2BC1A102B7A1A92002A2D32 /* ViewController.swift in Sources */,
 				F2BC1A0C2B7A1A92002A2D32 /* AppDelegate.swift in Sources */,
+				F2BC1A202B7A23AE002A2D32 /* Img.swift in Sources */,
 				F2BC1A0E2B7A1A92002A2D32 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
