@@ -20,9 +20,9 @@ enum Img {
         case .two:
             return "Ce luminaire est tout simplement parfait pour sublimer votre table à manger ou un salon"
         case .three:
-            return "il manque du text"
+            return "Photo de ma chambre quand elle est rangée"
         case .four:
-            return "c'est dommage"
+            return "Une chaise blanche en plastique, une table basse, une tasse et un pot contenant une plante verte destinée a mourir dans d'atroces conditions"
         }
     }
     
